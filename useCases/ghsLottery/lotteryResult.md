@@ -23,7 +23,7 @@
 ### 路径
 
 1. “bot”检查是否有足够人数参与抽奖
-2. 抽奖活动发布者点击抽奖活动reaction“🟩”，“bot”在点击反应的用户中随机抽取相应数量的用户，发布获奖信息
+2. 抽奖活动发布者点击抽奖活动reaction“🟩”，“bot”在点击反应的用户中随机抽取相应数量的用户，发布获奖信息https://github.com/funny-nation/embed-sand-box/blob/main/embed/openLottery.py
 ```
 恭喜 
 @user_name
