@@ -20,7 +20,7 @@ bot相关的说明
 
 ### 路径
 
-1. “bot”私信给用户bot的相关信息：
+1. “bot”私信给用户bot的相关信息：https://github.com/funny-nation/embed-sand-box/blob/main/embed/help.py
 ```
 欢迎使用GHS霸道总裁
 1. 如何获取货币
