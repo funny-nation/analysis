@@ -31,10 +31,7 @@
 3. “bot”检测开奖人数是否是大于等于1的整数
 4. “bot”发布抽奖活动信息：
 ```
-@user_name 发布抽奖活动啦！
-奖品：比心，数量有限，只有5个！
-抽奖券 100货币 一张
-点击“🎟️”购买抽奖券啦！
+https://github.com/funny-nation/embed-sand-box/blob/main/embed/lottery.py
 ```
 5. 在1.消息结尾添加reaction“🎟️”（用户可以点击reaction购买抽奖券参与抽奖）
 6. 在1.消息结尾添加reaction“🟩”（抽奖发布者可以点击开奖）
