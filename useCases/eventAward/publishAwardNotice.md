@@ -33,7 +33,7 @@
 奖金200货币哦！
 ```
 （其中@user_name指代活动负责人，内战指代活动名称）
-
+https://github.com/funny-nation/embed-sand-box/blob/main/embed/reward.py
 6. “Bot”在#5步骤中的消息添加一个“🎲”reaction 
 
 ### 扩展路径
