@@ -21,7 +21,7 @@
 ### 路径
 
 1. 用户在文字频道输入```ghs 随机数字 0-100 2```，其中0-100表示范围，2表示需要的数字数量
-2. “bot”在同一文字频道回复2个范围内的随机数字
+2. “bot”在同一文字频道回复2个范围内的随机数字https://github.com/funny-nation/embed-sand-box/blob/main/embed/random.py
 3. 当需要多个随机数字时，数字不可重复
 
 
