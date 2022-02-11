@@ -27,7 +27,7 @@
 2. “Bot”检查“发红包的用户”的余额是否足够
 3. “Bot”在“发红包的用户”扣除其金额。
 4. “Bot”在后台创建一个红包。
-5. “Bot”在该频道发送```user_name的红发已发出，大家快来抢```，user_name指代用户名。（数据输出：#1）
+5. “Bot”在该频道发送```user_name的红发已发出，大家快来抢```，user_name指代用户名。（数据输出：#1）https://github.com/funny-nation/embed-sand-box/blob/main/embed/luckymoney.py
 6. “Bot”在#5步骤中的消息添加一个“💰”Reaction。
 
 
