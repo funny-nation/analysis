@@ -30,9 +30,7 @@
 2. “bot”检测抽奖券金额是否是大于等于0的整数
 3. “bot”检测开奖人数是否是大于等于1的整数
 4. “bot”发布抽奖活动信息：
-```
 https://github.com/funny-nation/embed-sand-box/blob/main/embed/lottery.py
-```
 5. 在1.消息结尾添加reaction“🎟️”（用户可以点击reaction购买抽奖券参与抽奖）
 6. 在1.消息结尾添加reaction“🟩”（抽奖发布者可以点击开奖）
 7. 在1.消息结尾添加reaction“🟥”（抽奖发布者可以点击关闭抽奖活动）
