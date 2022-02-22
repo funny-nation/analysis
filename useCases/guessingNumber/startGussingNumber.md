@@ -21,7 +21,7 @@
 ### 路径
 
 1. 用户在频道内输入```ghs 开局猜数字```，默认范围是0-100
-2. "bot"回复https://github.com/funny-nation/embed-sand-box/blob/main/embed/guess.py
+2. "bot"回复https://github.com/funny-nation/embed-sand-box/blob/main/embed/guessNumber.py
 3. 在步骤#2消息结尾添加reaction"🔢"
 4. 用户点击reaction“🔢”加入组局，“bot”发送```user_name已加入对局```
 5. "bot"在后台生成一个0-100范围内的随机数字
