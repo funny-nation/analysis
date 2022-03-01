@@ -24,6 +24,7 @@
 2. “bot”检测在指定频道是否有未关闭的发牌器
 3. “bot”在指定频道发布游戏发牌通知，https://github.com/funny-nation/embed-sand-box/blob/main/embed/dealer.py （还没改完）
 4. “bot”在步骤#2.的消息结尾添加reaction“🟣” 
+5. “bot”私信回复用户```已建立游戏```
 
 ### 扩展路径
 
