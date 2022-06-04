@@ -21,7 +21,9 @@ booster或vip
 ### 路径
 
 1. booster或者vip在公屏输入任意文字信息代表签到，自动获取货币
-2. 24小时冷却（每日签到）
+2. “bot”检查用户是否是booster
+3. “bot”检查用户的最高vip等级
+4. 24小时冷却（每日签到）
   1. booster：60
   2. VIP1：60
   3. VIP2：80
@@ -36,4 +38,9 @@ booster或vip
   12. 精灵VIP：400
   13. 水晶VIP：500
   14. 圣火VIP：600
-既是booster又是vip签到，货币叠加
+5. 既是booster又是vip签到，货币叠加
+
+### 扩展路径
+
+2. 不是booster则没有booster签到奖励
+3. 以用户有的最高等级vip发放签到奖励
